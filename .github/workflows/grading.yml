@@ -1,0 +1,30 @@
+name: Grading
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  grading-test:
+    runs-on: ubuntu-latest
+    env:
+      PROBLEM: 1
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: false
+          fetch-depth: 2
+      - name: Show submodule updated
+        run: git diff --name-only HEAD^
+      - name: Fetch updated submodule
+        run: |
+          ./scripts/fetch_submodule --auth PAT --submodule "${{ env.PROBLEM }}-grading-tests"
+          ./scripts/fetch_submodule --auth PAT --submodule "$(git diff --name-only HEAD^)"
+        env:
+          AUTH_TOKEN: ${{ secrets.GH_DB_TOKEN }}
+      - name: Check repository clean
+        run: "./${{ env.PROBLEM }}-grading-tests/scripts/check_clean.sh"
+        timeout-minutes: 1
+      - name: Build
+        run: "./${{ env.PROBLEM }}-grading-tests/scripts/build.sh"
+        timeout-minutes: 1
