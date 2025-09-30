@@ -46,3 +46,6 @@
 [submodule "1-diegoroflan"]
 	path = 1-diegoroflan
 	url = https://github.com/spbu-coding-2025/1-diegoroflan.git
+[submodule "1-estoniec"]
+	path = 1-estoniec
+	url = https://github.com/spbu-coding-2025/1-estoniec.git
