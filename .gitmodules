@@ -16,3 +16,6 @@
 [submodule "1-GRIGAeo"]
 	path = 1-GRIGAeo
 	url = https://github.com/spbu-coding-2025/1-GRIGAeo.git
+[submodule "1-Ganesha1967"]
+	path = 1-Ganesha1967
+	url = https://github.com/spbu-coding-2025/1-Ganesha1967.git
