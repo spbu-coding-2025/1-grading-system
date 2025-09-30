@@ -49,3 +49,6 @@
 [submodule "1-estoniec"]
 	path = 1-estoniec
 	url = https://github.com/spbu-coding-2025/1-estoniec.git
+[submodule "1-krimpast"]
+	path = 1-krimpast
+	url = https://github.com/spbu-coding-2025/1-krimpast.git
