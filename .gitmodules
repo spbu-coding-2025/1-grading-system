@@ -40,3 +40,6 @@
 [submodule "1-cybulskii-vladimir"]
 	path = 1-cybulskii-vladimir
 	url = https://github.com/spbu-coding-2025/1-cybulskii-vladimir.git
+[submodule "1-danisaev"]
+	path = 1-danisaev
+	url = https://github.com/spbu-coding-2025/1-danisaev.git
