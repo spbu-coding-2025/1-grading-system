@@ -28,3 +28,6 @@
 [submodule "1-Redkin-Aleksey"]
 	path = 1-Redkin-Aleksey
 	url = https://github.com/spbu-coding-2025/1-Redkin-Aleksey.git
+[submodule "1-RomanKazz"]
+	path = 1-RomanKazz
+	url = https://github.com/spbu-coding-2025/1-RomanKazz.git
