@@ -37,3 +37,6 @@
 [submodule "1-alferukn"]
 	path = 1-alferukn
 	url = https://github.com/spbu-coding-2025/1-alferukn.git
+[submodule "1-cybulskii-vladimir"]
+	path = 1-cybulskii-vladimir
+	url = https://github.com/spbu-coding-2025/1-cybulskii-vladimir.git
