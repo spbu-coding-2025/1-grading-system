@@ -58,3 +58,6 @@
 [submodule "1-narysh"]
 	path = 1-narysh
 	url = https://github.com/spbu-coding-2025/1-narysh.git
+[submodule "1-polka777"]
+	path = 1-polka777
+	url = https://github.com/spbu-coding-2025/1-polka777.git
