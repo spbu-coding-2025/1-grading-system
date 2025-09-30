@@ -31,3 +31,6 @@
 [submodule "1-RomanKazz"]
 	path = 1-RomanKazz
 	url = https://github.com/spbu-coding-2025/1-RomanKazz.git
+[submodule "1-TemaLec"]
+	path = 1-TemaLec
+	url = https://github.com/spbu-coding-2025/1-TemaLec.git
