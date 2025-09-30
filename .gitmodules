@@ -7,3 +7,6 @@
 [submodule "1-AndyBarnv"]
 	path = 1-AndyBarnv
 	url = https://github.com/spbu-coding-2025/1-AndyBarnv.git
+[submodule "1-Brulevich-Nikita"]
+	path = 1-Brulevich-Nikita
+	url = https://github.com/spbu-coding-2025/1-Brulevich-Nikita.git
