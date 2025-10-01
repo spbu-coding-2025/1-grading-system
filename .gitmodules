@@ -115,3 +115,6 @@
 [submodule "1-kabkyrie"]
 	path = 1-kabkyrie
 	url = https://github.com/spbu-coding-2025/1-kabkyrie.git
+[submodule "1-liptonn405"]
+	path = 1-liptonn405
+	url = https://github.com/spbu-coding-2025/1-liptonn405.git
