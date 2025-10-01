@@ -32,7 +32,7 @@ while [[ "$1" != "" ]]; do
 			AUTH_METHOD="$2"
 			shift 2
 			;;
-		-s|--submocule)
+		-s|--submodule)
 			if [[ -z "$2" ]]; then
 				echo "'$2' is not name of the submodule"
 				usage
