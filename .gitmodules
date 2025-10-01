@@ -85,3 +85,6 @@
 [submodule "1-LinaraSun"]
 	path = 1-LinaraSun
 	url = https://github.com/spbu-coding-2025/1-LinaraSun.git
+[submodule "1-Lizavod"]
+	path = 1-Lizavod
+	url = https://github.com/spbu-coding-2025/1-Lizavod.git
