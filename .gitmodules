@@ -73,3 +73,6 @@
 [submodule "1-AleksAndr1038"]
 	path = 1-AleksAndr1038
 	url = https://github.com/spbu-coding-2025/1-AleksAndr1038.git
+[submodule "1-AlexeyMashkovichUniWork"]
+	path = 1-AlexeyMashkovichUniWork
+	url = https://github.com/spbu-coding-2025/1-AlexeyMashkovichUniWork.git
