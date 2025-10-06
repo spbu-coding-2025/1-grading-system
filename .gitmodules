@@ -139,3 +139,6 @@
 [submodule "1-OZDOEV-AI"]
 	path = 1-OZDOEV-AI
 	url = https://github.com/spbu-coding-2025/1-OZDOEV-AI.git
+[submodule "1-Prosto-Dan"]
+	path = 1-Prosto-Dan
+	url = https://github.com/spbu-coding-2025/1-Prosto-Dan.git
