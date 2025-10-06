@@ -136,3 +136,6 @@
 [submodule "1-Makuhin-Egor"]
 	path = 1-Makuhin-Egor
 	url = https://github.com/spbu-coding-2025/1-Makuhin-Egor.git
+[submodule "1-OZDOEV-AI"]
+	path = 1-OZDOEV-AI
+	url = https://github.com/spbu-coding-2025/1-OZDOEV-AI.git
