@@ -127,3 +127,6 @@
 [submodule "1-EndlessRevolution"]
 	path = 1-EndlessRevolution
 	url = https://github.com/spbu-coding-2025/1-EndlessRevolution.git
+[submodule "1-IvRevver"]
+	path = 1-IvRevver
+	url = https://github.com/spbu-coding-2025/1-IvRevver.git
