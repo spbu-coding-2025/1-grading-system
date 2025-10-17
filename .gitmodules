@@ -187,3 +187,7 @@
 	path = 1-RannyayaAnastasia
 	url = https://github.com/spbu-coding-2025/1-RannyayaAnastasia.git
 	branch = main
+[submodule "1-dem0phob1a"]
+	path = 1-dem0phob1a
+	url = https://github.com/spbu-coding-2025/1-dem0phob1a.git
+	branch = main
