@@ -167,3 +167,7 @@
 	path = 1-Immortal-ccc
 	url = https://github.com/spbu-coding-2025/1-Immortal-ccc.git
 	branch = main
+[submodule "1-KrimPast"]
+	path = 1-KrimPast
+	url = https://github.com/spbu-coding-2025/1-KrimPast.git
+	branch = main
