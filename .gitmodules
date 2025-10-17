@@ -191,3 +191,7 @@
 	path = 1-dem0phob1a
 	url = https://github.com/spbu-coding-2025/1-dem0phob1a.git
 	branch = main
+[submodule "1-e-leshnik"]
+	path = 1-e-leshnik
+	url = https://github.com/spbu-coding-2025/1-e-leshnik.git
+	branch = main
