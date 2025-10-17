@@ -171,3 +171,7 @@
 	path = 1-KrimPast
 	url = https://github.com/spbu-coding-2025/1-KrimPast.git
 	branch = main
+[submodule "1-LeoN192"]
+	path = 1-LeoN192
+	url = https://github.com/spbu-coding-2025/1-LeoN192.git
+	branch = main
