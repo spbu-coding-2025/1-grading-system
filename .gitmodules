@@ -183,3 +183,7 @@
 	path = 1-Ramenart
 	url = https://github.com/spbu-coding-2025/1-Ramenart.git
 	branch = main
+[submodule "1-RannyayaAnastasia"]
+	path = 1-RannyayaAnastasia
+	url = https://github.com/spbu-coding-2025/1-RannyayaAnastasia.git
+	branch = main
